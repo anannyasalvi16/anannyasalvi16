@@ -1,0 +1,30 @@
+name: Generate pixel snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#FFB4A2&color_dots=#ebedf0,#E6DCFF,#C8B6FF,#A58BE8,#8466D1
+            dist/github-snake-dark.svg?color_snake=#FFCBA4&color_dots=#2B2640,#4B3F72,#7D6BB8,#B8A1E3,#DCCBFF
+
+      - uses: crazy-max/ghaction-github-pages@v3.2.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
