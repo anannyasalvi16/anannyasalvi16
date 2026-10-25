@@ -55,6 +55,8 @@ I like projects where **numbers have to be right**: XIRR for mutual funds, paise
 
 > Did your mutual fund SIPs really beat a plain Nifty 50 index fund? Upload a statement and find out.
 
+[![Live](https://img.shields.io/badge/PLAY-siprealitycheck.streamlit.app-B5EAD7?style=flat-square&labelColor=2B2640)](https://siprealitycheck.streamlit.app/)
+
 - **True XIRR** using Brent's root-finding (`scipy.optimize.brentq`) across every cash flow date.
 - **Same-dates benchmark**: invests your exact amounts on your exact dates into a Nifty 50 index fund for a fair comparison.
 - **Live NAV data** from the AMFI API with fund-name matching and caching.
