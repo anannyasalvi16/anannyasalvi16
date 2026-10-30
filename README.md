@@ -1,16 +1,16 @@
-<img src="assets/banner.svg" alt="Anannya Salvi" width="100%" />
+<img src="assets/banner.png" alt="Anannya Salvi" width="100%" />
 
 # Anannya Salvi
 
 <a href="https://github.com/anannyasalvi16">
-  <img src="assets/banner.jpg" alt="Anannya Salvi" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1200&color=D946B8&center=true&vCenter=true&width=700&height=40&lines=aspiring+data+analyst+%C2%B7+fintech+enthusiast;i+build+things+people+actually+use;numbers+right+to+the+last+paisa;open+to+swe+%2F+pm+%2F+data+internships" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2A2B2D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anannya-salvi-a317623ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-2A2B2D?style=flat-square&logo=github&logoColor=white)](https://github.com/anannyasalvi16)
-[![TripTabTally](https://img.shields.io/badge/TripTabTally-live-3DAE72?style=flat-square&logo=vercel&logoColor=white)](https://triptabtally.vercel.app)
-[![SIP Reality Check](https://img.shields.io/badge/SIP_Reality_Check-live-E0709F?style=flat-square&logo=streamlit&logoColor=white)](https://siprealitycheck.streamlit.app)
-[![Stock Sentiment](https://img.shields.io/badge/Stock_Sentiment-live-2A2B2D?style=flat-square&logo=streamlit&logoColor=white)](https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B1247?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anannya-salvi-a317623ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-2B1247?style=flat-square&logo=github&logoColor=white)](https://github.com/anannyasalvi16)
+[![TripTabTally](https://img.shields.io/badge/TripTabTally-live-D946B8?style=flat-square&logo=vercel&logoColor=white)](https://triptabtally.vercel.app)
+[![SIP Reality Check](https://img.shields.io/badge/SIP_Reality_Check-live-2FB574?style=flat-square&logo=streamlit&logoColor=white)](https://siprealitycheck.streamlit.app)
+[![Stock Sentiment](https://img.shields.io/badge/Stock_Sentiment-live-2B1247?style=flat-square&logo=streamlit&logoColor=white)](https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/)
 
 ```
 currently: shipping small, tested tools where the maths has to be right
@@ -24,6 +24,14 @@ currently: shipping small, tested tools where the maths has to be right
 - Vice Chairperson of the ACM SIGITE student chapter at TCET
 - Looking for internships in software, product and data analysis
 
+<div align="center">
+
+<img src="assets/dino-run.svg" alt="dino running" width="100%" />
+
+*loading featured work... press space to jump over bugs*
+
+</div>
+
 ## featured work
 
 ### [TripTabTally](https://triptabtally.vercel.app) · [repo](https://github.com/anannyasalvi16/TripTabTally)
@@ -32,7 +40,7 @@ currently: shipping small, tested tools where the maths has to be right
 
 A budget, expense ledger and settle-up app for friends and families travelling together. Money is stored as integer paise, so nothing is ever lost to rounding.
 
-[![Next.js](https://img.shields.io/badge/Next.js-2A2B2D?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-2A2B2D?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Supabase](https://img.shields.io/badge/Supabase-3DAE72?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com) [![Tailwind](https://img.shields.io/badge/Tailwind-2A2B2D?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Next.js](https://img.shields.io/badge/Next.js-2B1247?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-2B1247?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Supabase](https://img.shields.io/badge/Supabase-2FB574?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com) [![Tailwind](https://img.shields.io/badge/Tailwind-2B1247?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 - Five split modes: equal, exact, percentage (Largest Remainder Method), shares and family
 - Greedy debt simplification clears any group in at most `k - 1` transfers, with UPI deep links to pay instantly
@@ -50,7 +58,7 @@ split 1,000.01 across 3  ->  333.34 + 333.34 + 333.33    # always sums back to t
 
 A Streamlit app that takes your mutual fund statement and measures your real returns against a Nifty 50 index fund bought on the same dates.
 
-[![Python](https://img.shields.io/badge/Python-2A2B2D?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-E0709F?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![SciPy](https://img.shields.io/badge/SciPy-2A2B2D?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org) [![Plotly](https://img.shields.io/badge/Plotly-2A2B2D?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
+[![Python](https://img.shields.io/badge/Python-2B1247?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-D946B8?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![SciPy](https://img.shields.io/badge/SciPy-2B1247?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org) [![Plotly](https://img.shields.io/badge/Plotly-2B1247?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
 - True XIRR across every cash flow date, solved with Brent's method
 - Same-dates benchmark: your exact amounts, your exact dates, invested in a Nifty 50 index fund instead
@@ -68,7 +76,7 @@ upload statement  ->  XIRR  vs  same-dates Nifty 50 benchmark
 
 Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
-[![Python](https://img.shields.io/badge/Python-2A2B2D?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Pandas](https://img.shields.io/badge/Pandas-2A2B2D?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![Plotly](https://img.shields.io/badge/Plotly-3DAE72?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
+[![Python](https://img.shields.io/badge/Python-2B1247?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Pandas](https://img.shields.io/badge/Pandas-2B1247?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![Plotly](https://img.shields.io/badge/Plotly-2FB574?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
 - Pulls up to 15 live headlines per ticker with `yfinance`
 - Scores each headline with NLTK VADER and charts the distribution and trend in Plotly
@@ -78,10 +86,10 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=131415&ring=7EE0A4&fire=F2A7C3&currStreakNum=ECECEA&sideNums=A8A8A5&currStreakLabel=7EE0A4&sideLabels=8A8A87&dates=8A8A87&hide_border=true&border_radius=0" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=14081F&ring=FF7AD9&fire=7EE0A4&currStreakNum=FFE3F6&sideNums=E6C9F5&currStreakLabel=FF7AD9&sideLabels=C9A6FF&dates=7EE0A4&hide_border=true&border_radius=0" alt="GitHub streak" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=anannyasalvi16&show_icons=true&hide_border=true&border_radius=0&bg_color=131415&title_color=7EE0A4&text_color=C9C9C6&icon_color=F2A7C3" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anannyasalvi16&layout=compact&hide_border=true&border_radius=0&bg_color=131415&title_color=7EE0A4&text_color=C9C9C6" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=anannyasalvi16&show_icons=true&hide_border=true&border_radius=0&bg_color=14081F&title_color=FF7AD9&text_color=E6C9F5&icon_color=7EE0A4" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anannyasalvi16&layout=compact&hide_border=true&border_radius=0&bg_color=14081F&title_color=FF7AD9&text_color=E6C9F5" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anannyasalvi16/anannyasalvi16/output/github-snake-dark.svg" />
