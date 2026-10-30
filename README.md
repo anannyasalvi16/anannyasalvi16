@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Anannya Salvi" width="100%" />
+
 # Anannya Salvi
 
 <a href="https://github.com/anannyasalvi16">
