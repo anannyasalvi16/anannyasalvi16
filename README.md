@@ -3,7 +3,7 @@
 # Anannya Salvi
 
 <a href="https://github.com/anannyasalvi16">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1200&color=3DAE72&center=true&vCenter=true&width=700&height=40&lines=aspiring+data+analyst+%C2%B7+fintech+enthusiast;i+build+things+people+actually+use;numbers+right+to+the+last+paisa;open+to+swe+%2F+pm+%2F+data+internships" alt="Typing SVG" />
+  <img src="assets/banner.jpg" alt="Anannya Salvi" width="100%" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A2B2D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anannya-salvi-a317623ab/)
