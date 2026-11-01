@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Anannya Salvi" width="100%" />
+<img src="assets/banner.png" alt="Anannya Salvi" width="100%" />
 
 # Anannya Salvi
 
@@ -88,21 +88,13 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
 <img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=14081F&ring=FF7AD9&fire=7EE0A4&currStreakNum=FFE3F6&sideNums=E6C9F5&currStreakLabel=FF7AD9&sideLabels=C9A6FF&dates=7EE0A4&hide_border=true&border_radius=0" alt="GitHub streak" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=anannyasalvi16&show_icons=true&hide_border=true&border_radius=0&bg_color=14081F&title_color=FF7AD9&text_color=E6C9F5&icon_color=7EE0A4" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anannyasalvi16&layout=compact&hide_border=true&border_radius=0&bg_color=14081F&title_color=FF7AD9&text_color=E6C9F5" alt="Top languages" />
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anannyasalvi16/anannyasalvi16/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/anannyasalvi16/anannyasalvi16/output/github-snake.svg" />
-</picture>
-
-[![tech icons](https://skillicons.dev/icons?i=py,ts,nextjs,supabase,postgres,tailwind,vercel,git,pandas&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=py,ts,nextjs,supabase,postgres,tailwind,vercel,git&theme=dark" alt="tech stack" />
 
 </div>
 
 ## highlights
 
 - **Vice Chairperson, ACM SIGITE, TCET.** Runs chapter events and handles PR for 9 events and games at Zephyr, the college's biggest fest
-- **B.E. Information Technology** · Mumbai University, TCET
-
-*Mumbai · open to opportunities*
+- **B.E. Information
