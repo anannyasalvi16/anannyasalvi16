@@ -18,9 +18,9 @@ currently: shipping small, tested tools where the maths has to be right
 
 ## what's going on
 
-- Shipped [**TripTabTally**](https://triptabtally.vercel.app), a group trip budget and expense-splitting app, used by 18 people across 4 completed trips
-- Shipped [**SIP Reality Check**](https://siprealitycheck.streamlit.app), which tells you whether your mutual fund SIPs actually beat a plain Nifty 50 index fund
-- Shipped [**Stock Sentiment Analyzer**](https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/), live news sentiment for any ticker
+- Shipped <a href="https://triptabtally.vercel.app"><b>TripTabTally</b></a>, a group trip budget and expense-splitting app, used by 18 people across 4 completed trips
+- Shipped <a href="https://siprealitycheck.streamlit.app"><b>SIP Reality Check</b></a>, which tells you whether your mutual fund SIPs actually beat a plain Nifty 50 index fund
+- Shipped <a href="https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/"><b>Stock Sentiment Analyzer</b></a>, live news sentiment for any ticker
 - Vice Chairperson of the ACM SIGITE student chapter at TCET
 - Looking for internships in software, product and data analysis
 
@@ -28,7 +28,7 @@ currently: shipping small, tested tools where the maths has to be right
 
 <img src="assets/dino-run.svg" alt="dino running" width="100%" />
 
-*loading featured work... press space to jump over bugs*
+<i>loading featured work... press space to jump over bugs</i>
 
 </div>
 
@@ -60,41 +60,4 @@ A Streamlit app that takes your mutual fund statement and measures your real ret
 
 [![Python](https://img.shields.io/badge/Python-2B1247?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-D946B8?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![SciPy](https://img.shields.io/badge/SciPy-2B1247?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org) [![Plotly](https://img.shields.io/badge/Plotly-2B1247?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
-- True XIRR across every cash flow date, solved with Brent's method
-- Same-dates benchmark: your exact amounts, your exact dates, invested in a Nifty 50 index fund instead
-- Live NAV data from the AMFI API
-- Statements are processed in memory and never stored
-- Core logic split from the UI, 40 pytest tests, anonymous usage analytics
-
-```
-upload statement  ->  XIRR  vs  same-dates Nifty 50 benchmark
-```
-
-### [Stock Sentiment Analyzer](https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/) · [repo](https://github.com/anannyasalvi16/Stock-Sentiment-Analyzer)
-
-*The market's mood, from the headlines.*
-
-Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
-
-[![Python](https://img.shields.io/badge/Python-2B1247?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Pandas](https://img.shields.io/badge/Pandas-2B1247?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![Plotly](https://img.shields.io/badge/Plotly-2FB574?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
-
-- Pulls up to 15 live headlines per ticker with `yfinance`
-- Scores each headline with NLTK VADER and charts the distribution and trend in Plotly
-- Sortable table of every headline, source and score
-
-## activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=14081F&ring=FF7AD9&fire=7EE0A4&currStreakNum=FFE3F6&sideNums=E6C9F5&currStreakLabel=FF7AD9&sideLabels=C9A6FF&dates=7EE0A4&hide_border=true&border_radius=0" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=py,ts,nextjs,supabase,postgres,tailwind,vercel,git&theme=dark" alt="tech stack" />
-
-</div>
-
-## highlights
-
-- **Vice Chairperson, ACM SIGITE, TCET.** Runs chapter events and handles PR for 9 events and games at Zephyr, the college's biggest fest
-- **B.E. Information
+- True
