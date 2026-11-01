@@ -60,4 +60,43 @@ A Streamlit app that takes your mutual fund statement and measures your real ret
 
 [![Python](https://img.shields.io/badge/Python-2B1247?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-D946B8?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![SciPy](https://img.shields.io/badge/SciPy-2B1247?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org) [![Plotly](https://img.shields.io/badge/Plotly-2B1247?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
-- True
+- True XIRR across every cash flow date, solved with Brent's method
+- Same-dates benchmark: your exact amounts, your exact dates, invested in a Nifty 50 index fund instead
+- Live NAV data from the AMFI API
+- Statements are processed in memory and never stored
+- Core logic split from the UI, 40 pytest tests, anonymous usage analytics
+
+```
+upload statement  ->  XIRR  vs  same-dates Nifty 50 benchmark
+```
+
+### [Stock Sentiment Analyzer](https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/) · [repo](https://github.com/anannyasalvi16/Stock-Sentiment-Analyzer)
+
+*The market's mood, from the headlines.*
+
+Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
+
+[![Python](https://img.shields.io/badge/Python-2B1247?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Pandas](https://img.shields.io/badge/Pandas-2B1247?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![Plotly](https://img.shields.io/badge/Plotly-2FB574?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
+
+- Pulls up to 15 live headlines per ticker with `yfinance`
+- Scores each headline with NLTK VADER and charts the distribution and trend in Plotly
+- Sortable table of every headline, source and score
+
+## activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=14081F&ring=FF7AD9&fire=7EE0A4&currStreakNum=FFE3F6&sideNums=E6C9F5&currStreakLabel=FF7AD9&sideLabels=C9A6FF&dates=7EE0A4&hide_border=true&border_radius=0" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py,ts,nextjs,supabase,postgres,tailwind,vercel,git&theme=dark" alt="tech stack" />
+
+</div>
+
+## highlights
+
+- <b>Vice Chairperson, ACM SIGITE, TCET.</b> Runs chapter events and handles PR for 9 events and games at Zephyr, the college's biggest fest
+- <b>B.E. Information Technology</b> · Mumbai University, TCET
+
+<i>Mumbai · open to opportunities</i>
