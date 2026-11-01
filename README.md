@@ -1,4 +1,4 @@
-<img src="main/banner.png" alt="Anannya Salvi" width="100%" />
+<img src="https://raw.githubusercontent.com/Anannyasalvi16/Anannyasalvi16/main/banner.png" alt="Anannya Salvi" width="100%" />
 
 # Anannya Salvi
 
