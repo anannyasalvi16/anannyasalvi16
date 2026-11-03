@@ -19,6 +19,7 @@ currently: shipping small, tested tools where the maths has to be right
 ## what's going on
 
 - Shipped <a href="https://triptabtally.vercel.app"><b>TripTabTally</b></a>, a group trip budget and expense-splitting app, used by 18 people across 4 completed trips
+- Built <a href="https://github.com/anannyasalvi16/mobility_wallet"><b>Mobility Wallet</b></a>, a Spring Boot platform for corporate transit allowances, with double-spend-proof voucher redemption
 - Shipped <a href="https://siprealitycheck.streamlit.app"><b>SIP Reality Check</b></a>, which tells you whether your mutual fund SIPs actually beat a plain Nifty 50 index fund
 - Shipped <a href="https://anannya-7efnjoycasbyhuwdafentm.streamlit.app/"><b>Stock Sentiment Analyzer</b></a>, live news sentiment for any ticker
 - Vice Chairperson of the ACM SIGITE student chapter at TCET
@@ -50,6 +51,25 @@ A budget, expense ledger and settle-up app for friends and families travelling t
 
 ```
 split 1,000.01 across 3  ->  333.34 + 333.34 + 333.33    # always sums back to the paisa
+```
+
+### [Mobility Wallet](https://github.com/anannyasalvi16/mobility_wallet)
+
+*Corporate transit allowances, with no double-spend.*
+
+A full-stack platform for managing corporate transit allowances. It handles digital wallets, the full voucher lifecycle (create, assign, redeem, expire) and multi-modal bookings across bus, metro and taxi.
+
+[![Java](https://img.shields.io/badge/Java_17-2B1247?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2FB574?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![MySQL](https://img.shields.io/badge/MySQL-2B1247?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com) [![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-D946B8?style=flat-square&logo=hibernate&logoColor=white)](https://hibernate.org) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2B1247?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+- Atomic voucher redemption using `@Version` optimistic locking plus DB-level unique constraints, so a voucher can never be spent twice
+- 10-thread concurrency test suite that verifies the double-spend protection
+- Multi-modal booking (bus, metro, taxi) with QR-code-based ticket validation
+- Role-based admin analytics, with Spring Security and REST APIs documented through Swagger / OpenAPI
+- Flyway migrations and CI/CD through GitHub Actions
+- 112 automated tests with JUnit 5 and Mockito, running on MySQL and H2
+
+```
+10 threads redeem the same voucher  ->  exactly 1 succeeds, the rest are rejected
 ```
 
 ### [SIP Reality Check](https://siprealitycheck.streamlit.app) · [repo](https://github.com/anannyasalvi16/sip_reality_check)
@@ -90,7 +110,7 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=py,ts,nextjs,supabase,postgres,tailwind,vercel,git&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,ts,java,spring,nextjs,supabase,postgres,mysql,tailwind,vercel,git&theme=dark" alt="tech stack" />
 
 </div>
 
