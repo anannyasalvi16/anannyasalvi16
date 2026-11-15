@@ -110,6 +110,14 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/Anannyasalvi16/Anannyasalvi16/main/koi/koi.gif" width="420" alt="daily koi" />
+
+<br/>
+
+<i>daily koi · colors reflect languages · size reflects contributions · swimming reflects yesterday's commits</i>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=py,ts,java,spring,nextjs,supabase,postgres,mysql,tailwind,vercel,git&theme=dark" alt="tech stack" />
 
 </div>
