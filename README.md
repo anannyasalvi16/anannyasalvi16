@@ -106,16 +106,17 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=14081F&ring=FF7AD9&fire=7EE0A4&currStreakNum=FFE3F6&sideNums=E6C9F5&currStreakLabel=FF7AD9&sideLabels=C9A6FF&dates=7EE0A4&hide_border=true&border_radius=0" alt="GitHub streak" />
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/Anannyasalvi16/Anannyasalvi16/main/koi/koi.gif" width="420" alt="daily koi" />
 
 <br/>
 
 <i>daily koi · colors reflect languages · size reflects contributions · swimming reflects yesterday's commits</i>
 
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=anannyasalvi16&background=14081F&ring=FF7AD9&fire=7EE0A4&currStreakNum=FFE3F6&sideNums=E6C9F5&currStreakLabel=FF7AD9&sideLabels=C9A6FF&dates=7EE0A4&hide_border=true&border_radius=0" alt="GitHub streak" />
+
+<br/><br/>
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=py,ts,java,spring,nextjs,supabase,postgres,mysql,tailwind,vercel,git&theme=dark" alt="tech stack" />
