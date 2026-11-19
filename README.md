@@ -15,6 +15,13 @@
 ```
 currently: shipping small, tested tools where the maths has to be right
 ```
+<div align="center">
+
+<a href="https://anannya-salvi.vercel.app/">
+  <img src="assets/portfolio-card.svg" alt="Enter the full portfolio" width="100%" />
+</a>
+
+</div>
 
 ## what's going on
 
