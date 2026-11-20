@@ -23,7 +23,7 @@ currently: shipping small, tested tools where the maths has to be right
 
 </div>
 
-## what's going on
+## What's going on
 
 - Shipped <a href="https://triptabtally.vercel.app"><b>TripTabTally</b></a>, a group trip budget and expense-splitting app, used by 18 people across 4 completed trips
 - Built <a href="https://github.com/anannyasalvi16/mobility_wallet"><b>Mobility Wallet</b></a>, a Spring Boot platform for corporate transit allowances, with double-spend-proof voucher redemption
@@ -40,7 +40,7 @@ currently: shipping small, tested tools where the maths has to be right
 
 </div>
 
-## featured work
+## Featured work
 
 ### [TripTabTally](https://triptabtally.vercel.app) · [repo](https://github.com/anannyasalvi16/TripTabTally)
 
@@ -109,7 +109,7 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 - Scores each headline with NLTK VADER and charts the distribution and trend in Plotly
 - Sortable table of every headline, source and score
 
-## activity
+## Activity
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Type a ticker and get a Bullish, Bearish or Neutral verdict from live news.
 
 </div>
 
-## highlights
+## Highlights
 
 - <b>Vice Chairperson, ACM SIGITE, TCET.</b> Runs chapter events and handles PR for 9 events and games at Zephyr, the college's biggest fest
 - <b>B.E. Information Technology</b> · Mumbai University, TCET
